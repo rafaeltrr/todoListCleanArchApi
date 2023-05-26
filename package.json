@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "todoList clean architecture,  TDD, RabbitMq, CI/CD\r Neste projeto Usarei padroes de arquitetura limpa, Continuous integration, TDD,  Gerenciamento de filas com RabbitMQ, cacheamento com Redis",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^20.2.4",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
